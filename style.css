@@ -148,7 +148,7 @@ html, body {
 }
 .about{
     padding: 90px 0;
-    background: url(../img/testimonial-bg-1-1.png);
+    background: url(testimonial-bg-1-1.png);
 }
 .about-Limg{
     max-width: 100%;
@@ -358,7 +358,7 @@ html, body {
     border-radius: 50px 0 0 50px;
 }
 .testimonials{
-    background: url(../img/testimonial-bg-1-1.png);
+    background: url(testimonial-bg-1-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 120px 0;
@@ -644,7 +644,7 @@ html, body {
     color: white;
 }
 .fun-fact{
-    background: url(../img/funfact-bg-1-1.png);
+    background: url(funfact-bg-1-1.png);
     background-repeat:no-repeat;
     background-size: cover;
     padding: 80px 0;
@@ -957,5 +957,4 @@ html, body {
 .readmore i{
     font-size: 22px;
 }
-
 
